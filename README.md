@@ -8,13 +8,15 @@ Dentro del proyecto de Astro:
 /
 ├── public/
 ├── src/
+│   └── blog/
+│   └── components/
+│   └── layouts/
 │   └── pages/
-│       └── about.astro
-        └── blog.astro
-        └── index.astro
+│   └── scripts/
+│   └── styles/
 └── package.json
 ```
 
-## Mi Landing Page v1.0.0
+## Mi Landing Page v0.0.3
 
 Versión inicial con estructura base y paginas nuevas: Sobre mi y Blog.
