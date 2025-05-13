@@ -11,9 +11,12 @@
 		"release": "standard-version --no-verify"
 	},
 	"dependencies": {
-		"astro": "^5.7.5"
+		"@astrojs/preact": "^4.0.11",
+		"astro": "^5.7.12",
+		"preact": "^10.26.6"
 	},
 	"devDependencies": {
+		"@astrojs/rss": "^4.0.11",
 		"@commitlint/cli": "^19.8.0",
 		"@commitlint/config-conventional": "^19.8.0",
 		"@eslint/js": "^9.25.1",
